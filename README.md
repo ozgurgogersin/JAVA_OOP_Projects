@@ -74,21 +74,13 @@ A Java-based cafe application that offers a variety of international dishes, all
 
 The Cafe App leverages OOP principles to maintain a structured and maintainable codebase. Key OOP concepts used include:
 
-### Cafe App Encapsulation
+- **Encapsulation**: Data (e.g., order details, prices) is encapsulated within classes, allowing controlled access through methods.
 
-- Data (e.g., order details, prices) is encapsulated within classes, allowing controlled access through methods.
+- **Inheritance**: The application uses inheritance to create specialized food classes, such as `Borscht`, `Dosa`, `Donuts`, `Kebap`, and `Lasagna`, extending common functionality.
 
-### Cafe App Inheritance
+- **Abstraction**: Abstraction is applied to represent and interact with food items and their properties, providing a simplified user experience.
 
-- The application uses inheritance to create specialized food classes, such as `Borscht`, `Dosa`, `Donuts`, `Kebap`, and `Lasagna`, extending common functionality.
-
-### Cafe App Abstraction
-
-- Abstraction is applied to represent and interact with food items and their properties, providing a simplified user experience.
-
-### Cafe App Polymorphism
-
-- Polymorphism is used to allow different food items to be handled uniformly, ensuring flexibility and extensibility.
+- **Polymorphism**: Polymorphism is used to allow different food items to be handled uniformly, ensuring flexibility and extensibility.
 
 ## Cafe App Error Handling and Bug Catching
 
