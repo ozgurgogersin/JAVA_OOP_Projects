@@ -8,8 +8,9 @@ A simple Java-based Bank ATM Application that allows users to create accounts, l
 
 - [Demo](#bank-atm-demo)
 - [Features](#bank-atm-features)
-- [Object-Oriented Programming (OOP) Methods](#bank-atm-oop-methods)
-- [Error Handling and Bug Catching](#bank-atm-error-handling)
+- [Object-Oriented Programming (OOP) Methods](#bank-atm-object-oriented-programming-methods)
+- [Error Handling and Bug Catching](#bank-atm-error-handling-and-bug-catching)
+
 
 ## Bank ATM Demo
 
@@ -25,7 +26,7 @@ A simple Java-based Bank ATM Application that allows users to create accounts, l
 
 The Bank ATM Application leverages OOP principles to organize the codebase, ensuring a structured and maintainable design. Key OOP concepts used include:
 
-### Bank ATM Object-Oriented Programming (OOP) Methods
+### Bank ATM Object-Oriented Programming Methods
 
 - **Encapsulation**: Data (e.g., username, password, and balance) is encapsulated within the `Account` class, allowing controlled access through getter and setter methods.
 
@@ -53,8 +54,8 @@ A Java-based cafe application that offers a variety of international dishes, all
 
 - [Demo](#cafe-app-demo)
 - [Features](#cafe-app-features)
-- [Object-Oriented Programming (OOP) Methods](#cafe-app-oop-methods)
-- [Error Handling and Bug Catching](#cafe-app-error-handling)
+- [Object-Oriented Programming (OOP) Methods](#cafe-app-object-oriented-programming-methods)
+- [Error Handling and Bug Catching](#cafe-app-error-handling-and-bug-catching)
 
 ## Cafe App Demo
 
@@ -69,7 +70,7 @@ A Java-based cafe application that offers a variety of international dishes, all
 - Choose between different payment methods (credit card or cash).
 - User-friendly command-line interface.
 
-## Cafe App Object-Oriented Programming (OOP) Methods
+## Cafe App Object-Oriented Programming Methods
 
 The Cafe App leverages OOP principles to maintain a structured and maintainable codebase. Key OOP concepts used include:
 
