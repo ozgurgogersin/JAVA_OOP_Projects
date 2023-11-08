@@ -1,11 +1,11 @@
 # JAVA_OOP_Projects
 
-- [Bank ATM Application](#bank-atm-application)
-- [Cafe Application](#cafe-application)
-- [Coffee Machine Application](#coffee-machine-application)
-- [Greek Gods and Goddesses Game](#greek-gods-and-goddesses-game)
+- [Bank ATM Application](#bank-atm)
+- [Cafe Application](#cafe-app)
+- [Coffee Machine Application](#coffee-machine)
+- [Greek Gods and Goddesses Game](#game)
 
-# 1 - Bank ATM Application
+# 1 - Bank ATM Application <a name="bank-atm"></a>
 
 A simple Java-based Bank ATM Application that allows users to create accounts, log in, check balances, deposit money, and withdraw money.
 
@@ -51,7 +51,7 @@ The Bank ATM Application includes error handling mechanisms to improve the user 
 
 ---
 
-# 2 - Cafe Application
+# 2 - Cafe Application <a name="cafe-app"></a>
 
 A Java-based cafe application that offers a variety of international dishes, allowing users to explore and order their favorite foods.
 
@@ -97,7 +97,7 @@ The Cafe App includes error handling mechanisms to enhance the user experience:
 
 ---
 
-# 3 - Coffee Machine Application
+# 3 - Coffee Machine Application <a name="coffee-machine"></a>
 
 A simple Java-based Coffee Machine Application that allows users to select and customize coffee orders, including hot and cold coffee options.
 
@@ -167,7 +167,7 @@ The application includes error handling mechanisms to improve the user experienc
 
 ---
 
-# 4 - Greek Gods and Goddesses Game
+# 4 - Greek Gods and Goddesses Game <a name="game"></a>
 
 ## Table of Contents
 
