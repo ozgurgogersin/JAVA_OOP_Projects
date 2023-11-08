@@ -158,6 +158,6 @@ The following key OOP principles are integrated into this project:
 
 ## Error Handling
 
-The application includes error handling mechanisms to improve the user experience and address potential issues, such as invalid input handling, account locking, and descriptive error messages.
+The application includes error handling mechanisms to improve the user experience and address potential issues, such as invalid input handling and descriptive error messages.
 
 ---
