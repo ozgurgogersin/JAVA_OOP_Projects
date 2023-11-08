@@ -50,10 +50,10 @@ A Java-based cafe application that offers a variety of international dishes, all
 
 ## Table of Contents
 
-- [Demo](#demo)
-- [Features](#features)
-- [Object-Oriented Programming (OOP) Methods](#object-oriented-programming-oop-methods)
-- [Error Handling and Bug Catching](#error-handling-and-bug-catching)
+- [Demo](#demo2)
+- [Features](#features2)
+- [Object-Oriented Programming (OOP) Methods](#object-oriented-programming-oop-methods2)
+- [Error Handling and Bug Catching](#error-handling-and-bug-catching2)
 
 ## Demo
 
