@@ -5,6 +5,8 @@
 - [Coffee Machine Application](#coffee-machine)
 - [Greek Gods and Goddesses Game](#game)
 
+-----
+
 # 1 - Bank ATM Application <a name="bank-atm"></a>
 
 A simple Java-based Bank ATM Application that allows users to create accounts, log in, check balances, deposit money, and withdraw money.
