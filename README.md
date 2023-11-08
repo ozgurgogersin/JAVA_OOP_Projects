@@ -11,11 +11,12 @@ A simple Java-based Bank ATM Application that allows users to create accounts, l
 - [Object-Oriented Programming (OOP) Methods](#bank-atm-oop-methods)
 - [Error Handling and Bug Catching](#bank-atm-error-handling)
 
-## Demo
+## Bank ATM Demo
 
+<!-- Add a GIF or video demo here -->
 <img src="https://github.com/ozgurgogersin/JAVA_OOP_Projects/blob/master/src/_Gifs/bankATM.gif"  alt="BankATM" width="500" height="400"/>
 
-## Features
+## Bank ATM Features
 
 - User registration and login.
 - Account balance checking.
@@ -24,7 +25,7 @@ A simple Java-based Bank ATM Application that allows users to create accounts, l
 
 The Bank ATM Application leverages OOP principles to organize the codebase, ensuring a structured and maintainable design. Key OOP concepts used include:
 
-### Object-Oriented Programming (OOP) Methods
+### Bank ATM Object-Oriented Programming (OOP) Methods
 
 - **Encapsulation**: Data (e.g., username, password, and balance) is encapsulated within the `Account` class, allowing controlled access through getter and setter methods.
 
@@ -34,7 +35,7 @@ The Bank ATM Application leverages OOP principles to organize the codebase, ensu
 
 - **Polymorphism**: Polymorphism is applied when different ATM operations are performed based on user input, providing flexibility and extensibility.
 
-### Error Handling and Bug Catching
+### Bank ATM Error Handling and Bug Catching
 
 The Bank ATM Application includes error handling mechanisms to improve the user experience and address potential issues:
 
@@ -55,11 +56,12 @@ A Java-based cafe application that offers a variety of international dishes, all
 - [Object-Oriented Programming (OOP) Methods](#cafe-app-oop-methods)
 - [Error Handling and Bug Catching](#cafe-app-error-handling)
 
-## Demo
+## Cafe App Demo
 
+<!-- Add a GIF or video demo here -->
 <img src="https://github.com/ozgurgogersin/JAVA_OOP_Projects/blob/master/src/_Gifs/cafeApp.gif" alt="Cafe App" width="500" height="400"/>
 
-## Features
+## Cafe App Features
 
 - Explore and order dishes from different international cuisines.
 - Learn about the ingredients, cuisine, and taste of each dish.
@@ -67,27 +69,27 @@ A Java-based cafe application that offers a variety of international dishes, all
 - Choose between different payment methods (credit card or cash).
 - User-friendly command-line interface.
 
-## Object-Oriented Programming (OOP) Methods
+## Cafe App Object-Oriented Programming (OOP) Methods
 
 The Cafe App leverages OOP principles to maintain a structured and maintainable codebase. Key OOP concepts used include:
 
-### Encapsulation
+### Cafe App Encapsulation
 
 - Data (e.g., order details, prices) is encapsulated within classes, allowing controlled access through methods.
 
-### Inheritance
+### Cafe App Inheritance
 
 - The application uses inheritance to create specialized food classes, such as `Borscht`, `Dosa`, `Donuts`, `Kebap`, and `Lasagna`, extending common functionality.
 
-### Abstraction
+### Cafe App Abstraction
 
 - Abstraction is applied to represent and interact with food items and their properties, providing a simplified user experience.
 
-### Polymorphism
+### Cafe App Polymorphism
 
 - Polymorphism is used to allow different food items to be handled uniformly, ensuring flexibility and extensibility.
 
-## Error Handling and Bug Catching
+## Cafe App Error Handling and Bug Catching
 
 The Cafe App includes error handling mechanisms to enhance the user experience:
 
@@ -96,7 +98,4 @@ The Cafe App includes error handling mechanisms to enhance the user experience:
 - Payment methods: The app handles different payment methods (credit card or cash) and ensures proper payment processing.
 
 ---
-
-
-
 
