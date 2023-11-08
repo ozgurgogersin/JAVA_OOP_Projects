@@ -42,3 +42,61 @@ The Bank ATM Application includes error handling mechanisms to improve the user 
 - **Account locking**: After a certain number of unsuccessful login attempts, the application locks the account for security purposes.
 - **Descriptive error messages**: The application provides informative error messages to guide users in case of invalid actions, such as entering negative deposit/withdraw amounts or incorrect login credentials.
 
+---
+
+# 2 - Cafe Application
+
+A Java-based cafe application that offers a variety of international dishes, allowing users to explore and order their favorite foods.
+
+## Table of Contents
+
+- [Demo](#demo)
+- [Features](#features)
+- [Object-Oriented Programming (OOP) Methods](#object-oriented-programming-oop-methods)
+- [Error Handling and Bug Catching](#error-handling-and-bug-catching)
+
+## Demo
+
+<img src="https://github.com/ozgurgogersin/JAVA_OOP_Projects/blob/master/src/_Gifs/cafeApp.gif" alt="Cafe App" width="500" height="400"/>
+
+## Features
+
+- Explore and order dishes from different international cuisines.
+- Learn about the ingredients, cuisine, and taste of each dish.
+- Manage your orders and view the total amount.
+- Choose between different payment methods (credit card or cash).
+- User-friendly command-line interface.
+
+## Object-Oriented Programming (OOP) Methods
+
+The Cafe App leverages OOP principles to maintain a structured and maintainable codebase. Key OOP concepts used include:
+
+### Encapsulation
+
+- Data (e.g., order details, prices) is encapsulated within classes, allowing controlled access through methods.
+
+### Inheritance
+
+- The application uses inheritance to create specialized food classes, such as `Borscht`, `Dosa`, `Donuts`, `Kebap`, and `Lasagna`, extending common functionality.
+
+### Abstraction
+
+- Abstraction is applied to represent and interact with food items and their properties, providing a simplified user experience.
+
+### Polymorphism
+
+- Polymorphism is used to allow different food items to be handled uniformly, ensuring flexibility and extensibility.
+
+## Error Handling and Bug Catching
+
+The Cafe App includes error handling mechanisms to enhance the user experience:
+
+- Input validation: The application validates user inputs to prevent unexpected behavior and errors.
+- Order management: Users can explore different foods and place orders with accurate pricing.
+- Payment methods: The app handles different payment methods (credit card or cash) and ensures proper payment processing.
+
+---
+
+
+
+
