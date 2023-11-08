@@ -1,5 +1,10 @@
 # JAVA_OOP_Projects
 
+- [Bank ATM Application](#bank-atm-application)
+- [Cafe Application](#cafe-application)
+- [Coffee Machine Application](#coffee-machine-application)
+- [Greek Gods and Goddesses Game](#greek-gods-and-goddesses-game)
+
 # 1 - Bank ATM Application
 
 A simple Java-based Bank ATM Application that allows users to create accounts, log in, check balances, deposit money, and withdraw money.
