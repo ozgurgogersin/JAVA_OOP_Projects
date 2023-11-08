@@ -92,3 +92,72 @@ The Cafe App includes error handling mechanisms to enhance the user experience:
 
 ---
 
+# 3 - Coffee Machine Application
+
+A simple Java-based Coffee Machine Application that allows users to select and customize coffee orders, including hot and cold coffee options.
+
+## Table of Contents
+
+- [Demo](#coffee-machine-demo)
+- [Features](#coffee-machine-features)
+- [Project Structure](#project-structure)
+- [Usage](#usage)
+- [Coffee Types](#coffee-types)
+- [Object-Oriented Programming (OOP) Methods](#coffee-machine-object-oriented-programming-methods)
+- [Error Handling](#error-handling)
+
+## Coffee Machine Demo
+
+<img src="https://github.com/ozgurgogersin/JAVA_OOP_Projects/blob/master/src/_Gifs/coffeemachine.gif" alt="Coffee Machine" width="500" height="400"/>
+
+## Coffee Machine Features
+
+- Select hot or cold coffee types.
+- Customize coffee orders with milk and sugar even with sizes.
+- Manage and display coffee orders.
+- User-friendly command-line interface.
+
+## Project Structure
+
+- `CoffeeKitchen.java`: Handles coffee selection, customization, and order management.
+- `ColdCoffies.java`: Manages specific cold coffee functionalities.
+- `RunApp.java`: Entry point for the Coffee Machine application.
+- `CoffeeTypes.java`: Enum representing different coffee types.
+- `CoffeMachine.java`: Interface defining coffee-related methods.
+
+## Usage
+
+1. Select '1' to enter the Coffee Machine.
+2. Choose a coffee from the menu.You can also choose the size.
+3. Customize your coffee with milk and sugar.
+4. Manage your order by adding more coffee or taking the order.
+5. Exit the application by selecting '0'.
+
+## Coffee Types
+
+The Coffee Machine offers a variety of coffee types, including:
+- Americano
+- Espresso
+- Cappuccino
+- Latte
+- Mocha
+- Macchiato
+- Affogato
+- Iced Coffee (Cold coffee)
+- Frappuccino (Cold coffee)
+- Irish Coffee
+
+## Coffee Machine Object-Oriented Programming Methods
+
+The following key OOP principles are integrated into this project:
+
+- **Encapsulation**: Data is enclosed within classes, offering controlled access and data integrity.
+- **Inheritance**: Common functionality is inherited to reduce code redundancy and enhance organization.
+- **Abstraction**: Complex processes are abstracted into intuitive methods, simplifying user interactions and improving usability.
+- **Polymorphism**: Code is designed to adapt to different inputs, providing flexibility for handling various scenarios and expanding functionality.
+
+## Error Handling
+
+The application includes error handling mechanisms to improve the user experience and address potential issues, such as invalid input handling, account locking, and descriptive error messages.
+
+---
