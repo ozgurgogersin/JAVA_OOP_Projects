@@ -161,3 +161,47 @@ The following key OOP principles are integrated into this project:
 The application includes error handling mechanisms to improve the user experience and address potential issues, such as invalid input handling and descriptive error messages.
 
 ---
+
+# 4 - Greek Gods and Goddesses Game
+
+## Table of Contents
+
+- [Demo](#game-demo)
+- [Features](#game-features)
+- [Object-Oriented Programming (OOP) Methods](#game-object-oriented-programming-methods)
+- [Error Handling and Bug Catching](#game-error-handling-and-bug-catching)
+
+## Game Demo
+
+<img src="https://github.com/ozgurgogersin/JAVA_OOP_Projects/blob/master/src/_Gifs/greekgodgodessgame.gif" alt="Game Demo" width="500" height="400"/>
+
+## Game Features
+
+- Explore the world of Greek mythology by interacting with powerful gods and goddesses.
+- Choose from four iconic characters: Zeus, Apollo, Athena, and Hera.
+- Learn about each character's unique attributes and abilities.
+- Engage in battles, reveal secret powers, and uncover their strengths.
+- Play the game and enjoy the rich stories and capabilities of these mythical beings.
+
+## Game Object-Oriented Programming Methods
+
+This game is built using Object-Oriented Programming (OOP) principles, including:
+
+- **Inheritance**: Different gods and goddesses inherit common attributes and methods from a base class, making the code organized and efficient.
+
+- **Polymorphism**: Each character has unique attack methods that showcase polymorphism, allowing flexibility in handling different characters' abilities.
+
+- **Abstraction**: User interactions and game features are abstracted into intuitive methods, simplifying the player's experience.
+
+- **Encapsulation**: Important data, such as character details, is encapsulated within classes to ensure controlled access and maintain data integrity.
+
+## Game Error Handling and Bug Catching
+
+The game includes error handling mechanisms to enhance the player experience and address potential issues:
+
+- Invalid input handling: The game prompts players with clear instructions to choose from the available characters.
+- Descriptive error messages: If a player enters incorrect commands, the game provides informative feedback to guide them.
+- Graceful exit: Players can exit the game at any time with the 'q' command without unexpected errors.
+
+---
+
