@@ -6,10 +6,10 @@ A simple Java-based Bank ATM Application that allows users to create accounts, l
 
 ## Table of Contents
 
-- [Demo](#demo)
-- [Features](#features)
-- [Object-Oriented Programming (OOP) Methods](#object-oriented-programming-oop-methods)
-- [Error Handling and Bug Catching](#error-handling-and-bug-catching)
+- [Demo](#bank-atm-demo)
+- [Features](#bank-atm-features)
+- [Object-Oriented Programming (OOP) Methods](#bank-atm-oop-methods)
+- [Error Handling and Bug Catching](#bank-atm-error-handling)
 
 ## Demo
 
@@ -50,10 +50,10 @@ A Java-based cafe application that offers a variety of international dishes, all
 
 ## Table of Contents
 
-- [Demo](#demo2)
-- [Features](#features2)
-- [Object-Oriented Programming (OOP) Methods](#object-oriented-programming-oop-methods2)
-- [Error Handling and Bug Catching](#error-handling-and-bug-catching2)
+- [Demo](#cafe-app-demo)
+- [Features](#cafe-app-features)
+- [Object-Oriented Programming (OOP) Methods](#cafe-app-oop-methods)
+- [Error Handling and Bug Catching](#cafe-app-error-handling)
 
 ## Demo
 
